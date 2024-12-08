@@ -37,7 +37,7 @@ subl  //open sublime text
 
 
 
-- refer xct script Fixing bugs and custom script : https://github.com/xct/kali-clean/tree/main
+- refer @xct script Fixing bugs and custom script : https://github.com/xct/kali-clean/tree/main
 
 ## TODO_ADD
 - [x] ADD tmux.conf  
