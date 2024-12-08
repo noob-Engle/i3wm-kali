@@ -20,3 +20,5 @@ open alacritty `ctrl+return`
 
 - refer xct script Fixing bugs and custom script : https://github.com/xct/kali-clean/tree/main
 
+## TODO_ADD
+- [x] ADD tmux.conf  
