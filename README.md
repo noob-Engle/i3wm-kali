@@ -14,7 +14,8 @@ after the script is done reboot and select i3 (top right corner) on the login sc
 
 you can put your favourite images into the .wallpaper folder
 
-the image name can be changed to `panda.png`. which can be customised. this can be done by changing the `.fehbg`
+the image name can be changed to `panda.png`.
+you can change the name of the image by modifying the `.fehbg`
 
 
 
