@@ -10,7 +10,17 @@ git clone https://github.com/noob-Engle/i3wm-kali.git
 ```
 after the script is done reboot and select i3 (top right corner) on the login screen
 
-open alacritty `ctrl+return`
+
+
+| cmd                     | Description            |
+| ----------------------- | ---------------------- |
+| Command + return        | open alacritty                 |
+| Command + D             | you can open any application              |
+| Command + shift + 🙂‍↔ | you can move the application left and right              |
+| Command+Shift+space     | floating   alacritty                 |
+| Command+ random number            | creation of workspaces                 |
+| Command+Shift+ random number      | you can move the contents of the current workspace to the workspace you want |
+| Command+Shift+r         | reboot i3wm                 |
 
 
 ## Rendered IMAGE
