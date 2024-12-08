@@ -1,6 +1,8 @@
 # i3wm-kali-desktop
 
-fast install i3wm-kali-desktop。**joyful HTB**
+fast install i3wm-kali-desktop 
+
+**🤭joyful HTB**
 
 
 ## Install
