@@ -33,7 +33,8 @@ subl  //open sublime text
 
 ## Rendered IMAGE
 
-<img width="2047" alt="image" src="https://github.com/user-attachments/assets/231cfe12-46c7-4477-b340-cfe891c396e2">
+<img width="2045" alt="image" src="https://github.com/user-attachments/assets/4db5fa2c-7dca-499c-9c18-eddb914d243f">
+
 
 
 - refer xct script Fixing bugs and custom script : https://github.com/xct/kali-clean/tree/main
