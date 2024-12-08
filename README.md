@@ -22,6 +22,12 @@ after the script is done reboot and select i3 (top right corner) on the login sc
 | Command+Shift+ random number      | you can move the contents of the current workspace to the workspace you want |
 | Command+Shift+r         | reboot i3wm                 |
 
+>snippet tips
+
+```bash
+subl  //open sublime text
+```
+
 
 ## Rendered IMAGE
 
