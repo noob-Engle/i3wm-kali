@@ -12,9 +12,9 @@ git clone https://github.com/noob-Engle/i3wm-kali.git
 ```
 after the script is done reboot and select i3 (top right corner) on the login screen
 
-you can put your favourite address into the .wallpaper folder
+you can put your favourite images into the .wallpaper folder
 
-The image name can be changed to `panda.png`, which can be customised
+the image name can be changed to `panda.png`. which can be customised. this can be done by changing the `.fehbg`
 
 
 
